@@ -14,7 +14,9 @@
  margin: 30px;
 }
 .cartItem img {
- width: 200px;
+ max-width: 150px;
+ max-height: 150px;
+ padding: 50px;
 }
 .cartItem .description {
  width: 100%;
